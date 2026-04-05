@@ -1,4 +1,6 @@
 # Java Tutorial For Beginners
+## Fix 
+Typo corrected here
 
 Welcome to this book on **"Learning Java In 150 Steps"**. 
 
@@ -12,7 +14,7 @@ In this book, you will learn to write **object** **oriented** code with Java. Yo
 
 Help us improve this guide - **Fork, Pull Requests, Shares and Likes are recommended**!
 
-## Table of Contents
+## Table of Contents...
 
 * [Chapter 01 - Introduction to Programming with Print-Multiplication-Table](#introduction-to-programming-with-print-multiplication-table)
 * [Chapter 02 - Understanding Methods](#understanding-methods)
